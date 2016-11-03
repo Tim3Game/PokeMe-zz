@@ -1,0 +1,11 @@
+name: PokeMe
+main: me.tim3game.pokeme.Main
+version: 0.1
+author: Tim3Game
+commands:
+ poke:
+  description: Command for plugin
+ reload:
+  description: Reload config.yml
+ receive:
+  description: Activate/Disable pokes

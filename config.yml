@@ -1,0 +1,18 @@
+# PokeMe Config
+Text: "You have been poked by %nickname%"
+TitleColor: "blue"
+SubTitleColor: "green"
+Volume: 100
+Pitch: 1
+#Sounds
+sPoke: "ORB_PICKUP"
+sNoPoke: "VILLAGER_NO"
+#Messages
+Prefix: "&3[PokeMe]"
+NoPermissions: "&4You don't have permissions for this!"
+NoPlayer: "That player is not online or has been spelled wrong"
+NoMessages: "Message not specified"
+NoPokes: "&6Player %nickname% has pokes disabled :("
+OnPokes: "&2From now you can receive pokes"
+OffPokes: "&4From now you don't receive pokes"
+Reload: "&4Config.yml was reloaded"
